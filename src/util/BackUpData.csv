@@ -1,0 +1,18 @@
+CityName,FavoriteCityFlag,ForecastFlag,CityFilepath,CityURL
+Boca Raton,FALSE,FALSE,src/input/station/USC00080845.csv,https://goo.gl/maps/WSj3f15gw4XN6G2o7
+Branford,FALSE,FALSE,src/input/station/USC00080975.csv,https://goo.gl/maps/XdAGudmHwkyKUTbr6
+Brooksville,FALSE,FALSE,src/input/station/USC00081048.csv,https://goo.gl/maps/f3P32Hwvg2iVDYHa7
+Cross City,FALSE,FALSE,src/input/station/USC00082008.csv,https://goo.gl/maps/kBfwPKjYQ9uAun4q7
+DeLand,FALSE,FALSE,src/input/station/USC00082229.csv,https://goo.gl/maps/9M8J86khJM4oV5Ty9
+Homestead,FALSE,FALSE,src/input/station/USC00084095.csv,https://goo.gl/maps/9ussij8eBzDZXJ9B8
+Inglis,FALSE,FALSE,src/input/station/USC00084273.csv,https://goo.gl/maps/hzvHvvWRZFwMPdBq7
+Lakeland,FALSE,FALSE,src/input/station/USC00084802.csv,https://goo.gl/maps/q8Cr2Kxt4hff2Set5
+Marineland,TRUE,FALSE,src/input/station/USC00085391.csv,https://goo.gl/maps/i8ZB1mACFNBd7aQu6
+Melbourne,FALSE,FALSE,src/input/station/USC00085612.csv,https://goo.gl/maps/hPW9yu247q9VJmNm9
+Monticello,TRUE,FALSE,src/input/station/USC00085880.csv,https://goo.gl/maps/9hoq5fEiGCkEDNtR8
+Moore Haven,TRUE,FALSE,src/input/station/USC00085895.csv,https://goo.gl/maps/46DfXihXYspq9gq16
+Raiford,TRUE,FALSE,src/input/station/USC00087440.csv,https://goo.gl/maps/xLchswK5yw3ZeE1w6
+St. Leo,FALSE,FALSE,src/input/station/USC00087851.csv,https://goo.gl/maps/ZomtAGGeBRPB9X8Y7
+St. Petersburg,FALSE,FALSE,src/input/station/USC00087886.csv,https://goo.gl/maps/BFSixTgDwMRpnmuT8
+Venice,FALSE,FALSE,src/input/station/USC00089176.csv,https://goo.gl/maps/ZgqvgAmr7QjvqxpW7
+Vero Beach,TRUE,FALSE,src/input/station/USC00089219.csv,https://goo.gl/maps/j8ZVE98KrxWLFKmk8

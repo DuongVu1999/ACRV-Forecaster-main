@@ -1,0 +1,5 @@
+Instruction ID,Instructions,Description,Image Name
+1,How to favorite and unfavorite cities,To favorite cities: Click on the empty star icon that the BLUE arrow is pointing to#To unfavorite cities: Click on the filled star icon that the RED arrow is pointing to,favorite_unfavorite_city.png
+2,How to show forecasts for cities,Click the button "Forecast" shown by the GREEN arrow#Click the tabs shown by the RED arrow to show different types of forecasts#Forecasts will be displayed where the BLUE arrow is pointing,show_city_forecast.png
+3,How to see a city's location in Google Maps,Click on the row of a city shown by RED arrow#View the city's location in Google Maps where the GREEN arrow is pointing,show_city_map.png
+4,How to see your favorite cities,Click the tab "Favorite Cities" shown by BLUE arrow,show_favorite_city.png
